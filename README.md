@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Andrea 👋
 
 <!--
 **ProfAndreaPollini/ProfAndreaPollini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 Dove trovarmi:
+  - [sito personale](https://andreapollini.com)
+  - Creo contenuti didattici e motivazionali su [Youtube](http://bit.ly/AndreaPolliniYT)
+  - Studio e programmo live su [Twitch](https://www.twitch.tv/profandreapollini)
+  
