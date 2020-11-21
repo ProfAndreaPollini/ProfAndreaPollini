@@ -20,3 +20,11 @@ Here are some ideas to get you started:
   - Creo contenuti didattici e motivazionali su [Youtube](http://bit.ly/AndreaPolliniYT)
   - Studio e programmo live su [Twitch](https://www.twitch.tv/profandreapollini)
   
+## Progetti attuali:
+  - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
+  - sviluppo di bot per twitch per il supporto alle live.
+  
+## Interagisci:
+  - fammi una domanda [commentando qua](https://github.com/ProfAndreaPollini/ProfAndreaPollini/issues/1)
+  - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
+  - vieni direttamente in live e chiedi!
