@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   - Creo contenuti didattici e motivazionali su [Youtube](http://bit.ly/AndreaPolliniYT)
   - Studio e programmo live su [Twitch](https://www.twitch.tv/profandreapollini)
   
+## Se sviluppi in React potrebbero interessarti:
+  - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
+  
 ## Progetti attuali:
   - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
   - sviluppo di bot per twitch per il supporto alle live.
