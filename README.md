@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ## 📫 Dove trovarmi:
   - [sito personale](https://andreapollini.com)
-  - Creo contenuti didattici e motivazionali su [Youtube](http://bit.ly/AndreaPolliniYT)
-  - Studio e programmo live su [Twitch](https://www.twitch.tv/profandreapollini)
+  - Creo contenuti didattici e motivazionali [![Canale Youtube prof. Andrea Pollini](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/AndreaPolliniYT)
+  - Studio e programmo live su [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/profandreapollini)
+  
+ 
   
 ## ⚡ Progetti attuali
   - NoName RPG: un progetto per la realizzazione di un rpg in vari linguaggi partendo da una [base comune]( https://github.com/ProfAndreaPollini/noname-rpg). Al momento sto lavorando alla [versione in Typescript](https://github.com/ProfAndreaPollini/noname-rpg-ts)
