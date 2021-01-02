@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 ## ⚡ Progetti attuali
   - NoName RPG: un progetto per la realizzazione di un rpg in vari linguaggi partendo da una [base comune]( https://github.com/ProfAndreaPollini/noname-rpg). Al momento sto lavorando alla [versione in Typescript](https://github.com/ProfAndreaPollini/noname-rpg-ts)
-  - [pyraylib](ProfAndreaPollini/pyraylib): wrapper per l'ultima versione di raylib(3.5) per python 3.9
+  - [pyraylib](https://github.com/ProfAndreaPollini/pyraylib): wrapper per l'ultima versione di raylib(3.5) per python 3.9
   
 ## Se sviluppi in React potrebbero interessarti:
   - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
