@@ -1,4 +1,4 @@
-### Hi, I'm Andrea 👋
+## Hi, I'm Andrea 👋
 
 <!--
 **ProfAndreaPollini/ProfAndreaPollini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,14 @@ Here are some ideas to get you started:
   - Creo contenuti didattici e motivazionali su [Youtube](http://bit.ly/AndreaPolliniYT)
   - Studio e programmo live su [Twitch](https://www.twitch.tv/profandreapollini)
   
+## ⚡ Progetti attuali
+  - NoName RPG: un progetto per la realizzazione di un rpg in vari linguaggi partendo da una [base comune]( https://github.com/ProfAndreaPollini/noname-rpg). Al momento sto lavorando alla [versione in Typescript](https://github.com/ProfAndreaPollini/noname-rpg-ts)
+  - [pyraylib](ProfAndreaPollini/pyraylib): wrapper per l'ultima versione di raylib(3.5) per python 3.9
+  
 ## Se sviluppi in React potrebbero interessarti:
   - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
   
-## Progetti attuali:
+## Progetti recenti:
   - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
   - sviluppo di bot per twitch per il supporto alle live.
   
