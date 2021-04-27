@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📫 Dove trovarmi:
   - [sito personale](https://andreapollini.com)
   - Creo contenuti didattici e motivazionali [![Canale Youtube prof. Andrea Pollini](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/AndreaPolliniYT)
-  - Studio e programmo live su [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/profandreapollini)
+  - Studio e programmo live su [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lemoncoding)
   
  
   
