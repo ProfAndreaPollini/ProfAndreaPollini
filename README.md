@@ -22,19 +22,17 @@ Here are some ideas to get you started:
   
  
   
-## ⚡ Progetti attuali
-  - NoName RPG: un progetto per la realizzazione di un rpg in vari linguaggi partendo da una [base comune]( https://github.com/ProfAndreaPollini/noname-rpg). Al momento sto lavorando alla [versione in Typescript](https://github.com/ProfAndreaPollini/noname-rpg-ts)
-  - [pyraylib](https://github.com/ProfAndreaPollini/pyraylib): wrapper per l'ultima versione di raylib(3.5) per python 3.9
-  
-## Se sviluppi in React potrebbero interessarti:
+## 🔭 Progetti attuali
+
+### ⚡ Strumenti di supporto ai progetti:
   - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
   - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
   
-## Progetti recenti:
+### ⚡ Progetti recenti:
   - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
   - sviluppo di bot per twitch per il supporto alle live.
   
-## Interagisci:
+## 💬 Interagisci:
   - fammi una domanda [commentando qua](https://github.com/ProfAndreaPollini/ProfAndreaPollini/issues/1)
   - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
   - vieni direttamente in live e chiedi!
