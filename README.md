@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - [pyraylib](https://github.com/ProfAndreaPollini/pyraylib): wrapper per l'ultima versione di raylib(3.5) per python 3.9
   
 ## Se sviluppi in React potrebbero interessarti:
+  - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
   - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
   
 ## Progetti recenti:
