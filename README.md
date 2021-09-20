@@ -25,12 +25,17 @@ Here are some ideas to get you started:
   
 ## 🔭 Progetti attuali
 
-### ⚡ Strumenti di supporto ai progetti:
+### ⚡  Starter progetti 
+
+
+#### next.js
+
   - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
   
-### ⚡  Starter progetti :
-    - [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
-    - [typescript + React + Parcel V2](https://github.com/ProfAndreaPollini/parcel-react-typescript-template)
+#### react
+
+   - [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
+   - [typescript + React + Parcel V2](https://github.com/ProfAndreaPollini/parcel-react-typescript-template)
     
 ### ⚡ Progetti Sviluppati live:
    - *JS/TS*: [Demo interazione tra tone.js e la chat di twitch](https://github.com/ProfAndreaPollini/tonejs-demo)
