@@ -27,8 +27,15 @@ Here are some ideas to get you started:
 
 ### ⚡ Strumenti di supporto ai progetti:
   - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
-  - Starter progetti [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
   
+### ⚡  Starter progetti :
+    - [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
+    - [typescript + React + Parcel V2](https://github.com/ProfAndreaPollini/parcel-react-typescript-template)
+    
+### ⚡ Progetti Sviluppati live:
+   - *JS/TS*: [Demo interazione tra tone.js e la chat di twitch](https://github.com/ProfAndreaPollini/tonejs-demo)
+   - *C*: [Simulazione physarum](ProfAndreaPollini/physarum-simulation-c-raylib)  
+ 
 ### ⚡ Progetti recenti:
   - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
   - sviluppo di bot per twitch per il supporto alle live.
