@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ### ⚡  Starter progetti 
 
+#### electron.js (applicazioni desktop multipiattaforma con javascript)
+  - [Electron + Typescript + react.js](https://github.com/ProfAndreaPollini/electron-boilerplate-typescript-react)
 
 #### next.js
 
