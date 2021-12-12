@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Progetti attuali
 
+### [Advent of code 2021](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/8e876f28511c9c4892440f99d5f0f15e69326188/advent-of-code-2021.md)
+
 ### ⚡  Starter progetti 
 
 #### electron.js (applicazioni desktop multipiattaforma con javascript)
