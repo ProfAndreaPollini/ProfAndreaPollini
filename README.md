@@ -1,9 +1,16 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Andrea 👋</h1>
 </p>
-<p align="center">
-<a href="https://replit.com/@professorandrea"><img src="https://img.shields.io/badge/REPLIT-ee0000?style=for-the-badge&logo=repl&logoColor=white" alt="Repl" /></a>&nbsp;
 
+## 📫 Dove trovarmi:
+
+<p align="center">
+<a href="https://replit.com/@professorandrea"><img src="https://img.shields.io/badge/REPLIT-ee6600?style=for-the-badge&logo=repl&logoColor=black" alt="Repl" /></a>&nbsp;
+<a href="http://bit.ly/AndreaPolliniYT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
+<a href="https://www.twitch.tv/profandreapollini"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>&nbsp;
+<a href="https://andreapollini.com"><img src="https://img.shields.io/badge/website-440000?style=for-the-badge&logo=repl&logoColor=white" alt="Prof. Andrea Pollini Website" /></a>&nbsp;
+
+  
 </p>
 <br />
 
@@ -23,14 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 Dove trovarmi:
-  - [sito personale](https://andreapollini.com)
-  
-[![Canale Youtube prof. Andrea Pollini](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/AndreaPolliniYT)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lemoncoding)
-  
- 
-  
 ## 🔭 Progetti attuali
 
 ### ⚡  Starter progetti 
