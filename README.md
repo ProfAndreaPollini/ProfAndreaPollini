@@ -1,4 +1,12 @@
-## Hi, I'm Andrea 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Andrea 👋</h1>
+</p>
+<p align="center">
+<a href="https://replit.com/@professorandrea"><img src="https://img.shields.io/badge/REPLIT-ee0000?style=for-the-badge&logo=repl&logoColor=white" alt="Repl" /></a>&nbsp;
+
+</p>
+<br />
+
 
 <!--
 **ProfAndreaPollini/ProfAndreaPollini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
