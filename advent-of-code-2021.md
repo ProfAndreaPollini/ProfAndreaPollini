@@ -14,3 +14,5 @@ Risoluzione dei quesiti per l'[Advent of Code 2021](https://adventofcode.com/202
 * [10](https://replit.com/@professorandrea/AdventOfCode-10)
 * [11](https://replit.com/@professorandrea/AdventOfCode-11)
 * [12](https://replit.com/@professorandrea/AdventOfCode-12)
+* [13](https://replit.com/@professorandrea/AdventOfCode-13)
+* [14](https://replit.com/@professorandrea/AdventOfCode-14)
