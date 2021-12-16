@@ -9,8 +9,6 @@
 <a href="http://bit.ly/AndreaPolliniYT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
 <a href="https://www.twitch.tv/profandreapollini"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>&nbsp;
 <a href="https://andreapollini.com"><img src="https://img.shields.io/badge/website-440000?style=for-the-badge&logo=repl&logoColor=white" alt="Prof. Andrea Pollini Website" /></a>&nbsp;
-
- [test](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/dec4d038568b042bd1e798be2550e566962c0ca7/programmi-cpp.md)
 </p>
 <br />
 
@@ -38,8 +36,10 @@ Here are some ideas to get you started:
 ## Risorse per studenti e docenti
 
 - [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/d2cd1af6ca1dcc323638a0215180c3a8e1222f4d/esercizi-cpp.md)
+- [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/62c26341df94c0077de14c3415952407a8459057/idee-progetti-webapp.md)
 
-## 🔭 Progetti attuali
+
+## 🔭 Altri Progetti 
 
 ### [Advent of code 2021](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/8e876f28511c9c4892440f99d5f0f15e69326188/advent-of-code-2021.md)
 
