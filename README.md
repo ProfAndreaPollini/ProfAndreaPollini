@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 💬 Interagisci:
+  - fammi una domanda [commentando qua](https://github.com/ProfAndreaPollini/ProfAndreaPollini/issues/1)
+  - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
+  - vieni direttamente in live e chiedi!
+
+## Risorse per studenti e docenti
+
+- [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/d2cd1af6ca1dcc323638a0215180c3a8e1222f4d/esercizi-cpp.md)
+
 ## 🔭 Progetti attuali
 
 ### [Advent of code 2021](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/8e876f28511c9c4892440f99d5f0f15e69326188/advent-of-code-2021.md)
@@ -51,12 +60,7 @@ Here are some ideas to get you started:
 ### ⚡ Progetti Sviluppati live:
    - *JS/TS*: [Demo interazione tra tone.js e la chat di twitch](https://github.com/ProfAndreaPollini/tonejs-demo)
    - *C*: [Simulazione physarum](ProfAndreaPollini/physarum-simulation-c-raylib)  
- 
-### ⚡ Progetti recenti:
   - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
   - sviluppo di bot per twitch per il supporto alle live.
   
-## 💬 Interagisci:
-  - fammi una domanda [commentando qua](https://github.com/ProfAndreaPollini/ProfAndreaPollini/issues/1)
-  - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
-  - vieni direttamente in live e chiedi!
+
