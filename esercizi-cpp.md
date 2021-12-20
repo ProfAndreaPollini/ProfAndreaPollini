@@ -3,7 +3,7 @@
 Raccolta di esercizi di programmazione che possono essere risolti sia utilizzando un qualsiasi linguaggio di programmazione.
 
 
-## Yellow Submarine
+## [1] Yellow Submarine
 
 siamo in navigazione nel mar del caos. Vogliamo recuperare delle informazioni relative al fondale marino, e per far questo possiamo utilizzare il sonar sp01, installato nel nostro sommergibile. 
 
@@ -32,9 +32,22 @@ Bonus:
     - [ ] punteggio
     - [ ] gestione collisione con il fondale
 
-## Soluzioni
+### Soluzioni
 
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white): [codice fatto in classe](https://replit.com/@professorandrea/3di-sottomarino-1?v=1)
+
+## [2] Valutazione studenti
+
+La facoltá Pincopallis ti ha affidato il compito di creare una applicazione per valutare gli studenti. In input verranno inseriti il voto (in decimi, anche non interi) e un intero che indica il numero di progetti realizzati dallo studente.
+
+Il voto finale va calcolato in questo modo:
+
+- voto maggiore o uguale a 9 e almeno cinque progetti realizzati -> voto finale = 10
+- voto maggiore o uguale a 8 e almeno tre progetti realizzati -> voto finale = 8
+- voto maggiore o uguale a 6 e almeno due progetti realizzati -> voto finale = 6
+- ogni altro caso: voto finale = 4
+ 
+Il voto finale verrá stampato a video.
 
 
 ### Simulare la caduta di un granello di sabbia [TODO]
