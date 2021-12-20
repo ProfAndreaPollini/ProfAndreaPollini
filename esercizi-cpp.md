@@ -49,6 +49,17 @@ Il voto finale va calcolato in questo modo:
  
 Il voto finale verrá stampato a video.
 
+## [3] Congettura di Collatz
+
+La [Congettura di Collatz](https://it.wikipedia.org/wiki/Congettura_di_Collatz) é un risultato interessante della matematica.
+
+La congettura riguarda il seguente algoritmo:
+
+- Si prenda un intero positivo n.
+- Se n = 1, l'algoritmo termina.
+- Se n è pari, si divida per due; altrimenti si moltiplichi per 3 e si aggiunga 1.
+
+Scrivere un programma che implementi l'algoritmo della congettura di collatz in una funzione `collatz(...)` e che, chiesto in input un numero intero di partenza, applichi la funzione fino al termine dell'algoritmo. Stampare a video la sequenza di numeri che l'algoritmo produce e quanti sono i passi che portano al termine dello stesso.
 
 ### Simulare la caduta di un granello di sabbia [TODO]
 
