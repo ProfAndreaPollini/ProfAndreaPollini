@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 
 ## Risorse per studenti e docenti
 
-- [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/d2cd1af6ca1dcc323638a0215180c3a8e1222f4d/esercizi-cpp.md)
-- [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/62c26341df94c0077de14c3415952407a8459057/idee-progetti-webapp.md)
+- [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
+- [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
 
+## Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
+
+- [Countdown App](https://github.com/ProfAndreaPollini/countdown-app-react) react,typescript,vite
 
 ## 🔭 Altri Progetti 
 
