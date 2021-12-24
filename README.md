@@ -33,14 +33,17 @@ Here are some ideas to get you started:
   - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
   - vieni direttamente in live e chiedi!
 
-## Risorse per studenti e docenti
+## 📚 Risorse per studenti e docenti
 
 - [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
 - [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
 
-## Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
+## ⚡ Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
 
 - [Countdown App](https://github.com/ProfAndreaPollini/countdown-app-react) react,typescript,vite
+- [Simulazione physarum](ProfAndreaPollini/physarum-simulation-c-raylib)  C
+- [Demo interazione tra tone.js e la chat di twitch](https://github.com/ProfAndreaPollini/tonejs-demo) Javascript
+- Sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
 
 ## 🔭 Altri Progetti 
 
@@ -60,10 +63,6 @@ Here are some ideas to get you started:
    - [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
    - [typescript + React + Parcel V2](https://github.com/ProfAndreaPollini/parcel-react-typescript-template)
     
-### ⚡ Progetti Sviluppati live:
-   - *JS/TS*: [Demo interazione tra tone.js e la chat di twitch](https://github.com/ProfAndreaPollini/tonejs-demo)
-   - *C*: [Simulazione physarum](ProfAndreaPollini/physarum-simulation-c-raylib)  
-  - sviluppo componenti per ESP32 usando il framework espressif ([esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/))
-  - sviluppo di bot per twitch per il supporto alle live.
+
   
 
