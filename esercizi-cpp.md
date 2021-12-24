@@ -63,6 +63,6 @@ Scrivere un programma che implementi l'algoritmo della congettura di collatz in 
 
 ### Simulare la caduta di un granello di sabbia [TODO]
 
-Data una griglia bidimensionale che rappresenta il terreno sopra l'aria
+
 
 
