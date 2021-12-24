@@ -1,3 +1,14 @@
+## Countdow App
+
+Realizzare una webapp che implementi un countdown. L'app avrá una modalitá di impostazione della durata del timer, oltre a quella del countdown e di una schermata di fine timeout.
+
+Bonus:
+
+- Aggiungere la possibilitá di interrompere quando si desidera il timer.
+
+Soluzioni:
+
+- [React + Typescript](https://github.com/ProfAndreaPollini/countdown-app-react)
 
 ## Geo Notes
 
@@ -13,3 +24,5 @@ Creare una webapp che consenta di inserire un termine di ricerca e mostrare a vi
 - cercare un dataset emoji
 - creare la UI
 - aggiungere la ricerca e l'aggiornamento della lista delle emoji
+
+
