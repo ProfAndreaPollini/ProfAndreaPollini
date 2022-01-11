@@ -61,17 +61,17 @@ La congettura riguarda il seguente algoritmo:
 
 Scrivere un programma che implementi l'algoritmo della congettura di collatz in una funzione `collatz(...)` e che, chiesto in input un numero intero di partenza, applichi la funzione fino al termine dell'algoritmo. Stampare a video la sequenza di numeri che l'algoritmo produce e quanti sono i passi che portano al termine dello stesso.
 
-### DISHWASH / postazione automatica di lavaggio piatti
+## [4] DISHWASH / postazione automatica di lavaggio piatti
 
 ci è  stato chiesto di Simulare una postazione  automatica di lavaggio piatti. ogni piatto è  rappresentato da un  numero positivo che indica quanti cicli di lavaggio sono necessari per pulirlo. la capienza massima della macchina è  di dieci piatti. 
 
 all'avvio la macchina è  vuota. utilizzare un array per gestire la lista di piatti. ad ogni ciclo la macchina mostra all'operatore le statistiche di funzionamento: quanti piatti ha lavato, quanti ne ha in attesa e se vi è ancora spazio per caricarne uno. nel caso chiede all'utente se vuole aggiungere uno. se l'utente dice di sì viene generato e aggiunto all'array un intero compreso tra 1 e 5 che indica il grado di sporcizia sul piatto. se l'utente decide di spegnere la macchina, questa stampi a video quanti piatti ha lavato.
 
-### DISHWASH 2/ postazione automatica di lavaggio piatti
+## [5] DISHWASH 2/ postazione automatica di lavaggio piatti
 
 data la dishwash dell'esercizio precedente consentire di selezionare il programma di funzionamento tra normale (ogni ciclo pulisce di 2 il piatto corrente) e ultra (ogni ciclo pulisce 4). tuttavia se il piatto corrente ha grando di luridume 2 e lo puoiamo con il programma ultra, perderemo due unita di detergente. il detergente che dovesse avanzare non può  essere utilizzato per un ulteriore piatto. allo spegnimento mostrare a video quante unità di detergente sono state sprecate.
 
-### DISHWASH 3 / postazione automatica di lavaggio piatti
+## [6] DISHWASH 3 / postazione automatica di lavaggio piatti
 
 estendere la dishwash in modo tale che possa riutilizzare le unità di detergente che avanzano durante la pulizia di un piatto per il successivo.
 
