@@ -75,6 +75,10 @@ data la dishwash dell'esercizio precedente consentire di selezionare il programm
 
 estendere la dishwash in modo tale che possa riutilizzare le unità di detergente che avanzano durante la pulizia di un piatto per il successivo.
 
+## [7] scambio valori con il passaggio per riferimento
+
+scrivere una funziona `scambio` che consenta di scambiare i valori passati come parametro. se la funzione viene chiamata sulle variabili a e b che valgono rispettivamente 2 e 3, dopo la chiamata `scambia(a,b)` sia avrà che `a` varrà  3 e `b` varrà 2.
+
 ### Simulare la caduta di un granello di sabbia [TODO]
 
 
