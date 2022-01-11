@@ -79,6 +79,14 @@ estendere la dishwash in modo tale che possa riutilizzare le unità di detergent
 
 scrivere una funziona `scambio` che consenta di scambiare i valori passati come parametro. se la funzione viene chiamata sulle variabili a e b che valgono rispettivamente 2 e 3, dopo la chiamata `scambia(a,b)` sia avrà che `a` varrà  3 e `b` varrà 2.
 
+## [8] Buffer circolare
+
+84un buffer circolare è  una struttura dati semplice rappresentative con un array di lunghezza fissata. all'inizio l'array è  vuoto e man mano che viene aggiunto un valore, 
+
+l'aggiunta viene fatta nella prima posizione libera (salvare la prima posizione libera in una variabile). una volta inserito un elemento nell'ultima posizione dell'array  la successiva posizione libera sarà la prima (0), e al prossimo inserimento verrà quindi sovrascritto l'elemento  in posizione 0, poi 1 e così via.
+
+la struttura  deve stampare gli elementi in essa contenuti dal più vecchio al più recente e anche dal 0iu recente al più vecchio
+
 ### Simulare la caduta di un granello di sabbia [TODO]
 
 
