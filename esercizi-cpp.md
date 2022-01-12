@@ -87,6 +87,20 @@ l'aggiunta viene fatta nella prima posizione libera (salvare la prima posizione 
 
 la struttura  deve stampare gli elementi in essa contenuti dal più vecchio al più recente e anche dal 0iu recente al più vecchio
 
+## [9] percorsi a L
+
+Generare una matrice NxN con N=6. Riempirla di numeri casuali da 0 a 9. Ogni numero definisce
+L'altezza di una zona di terreno che la matrice rappresenta. Fare inserire all'utente riga e colonna di partenza e di arrivo.
+
+Definito come percorso a L un percorso che svolta una sola volta, stampare a video i numeri dei due percorsi ad L che rappresentano i cammini tra partenza e arrivo.
+Stampare anche quale è il percorso più breve e la lunghezza totale dei due percorsi.
+
+## [10] gestione di una lista dinamica
+
+Implementare utilizzando un Array un set per interi i cui elementi sono sempre maggiori o uguali a  zero.
+Il set  ha dimensione massima 5. Deve essere possibile inserire un elemento (se il set non è pieno), cercare se un elemento è presente, cancellare un elemento dandone il valore e 
+Dire se il set è pieno oppure no. Nel caso di inserimento di un valore già presente, l'inserimento non viene effettuato e l'utente viene avvisato (nei set non vi sono mai elementi duplicati) 
+
 ### Simulare la caduta di un granello di sabbia [TODO]
 
 
