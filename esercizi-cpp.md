@@ -93,7 +93,7 @@ Generare una matrice NxN con N=6. Riempirla di numeri casuali da 0 a 9. Ogni num
 L'altezza di una zona di terreno che la matrice rappresenta. Fare inserire all'utente riga e colonna di partenza e di arrivo.
 
 Definito come percorso a L un percorso che svolta una sola volta, stampare a video i numeri dei due percorsi ad L che rappresentano i cammini tra partenza e arrivo.
-Stampare anche quale è il percorso più breve e la lunghezza totale dei due percorsi.
+Stampare anche quale è il percorso con la somma delle altezze più breve e la somma totale delle quote dei due percorsi.
 
 ## [10] gestione di una lista dinamica
 
