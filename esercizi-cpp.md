@@ -51,7 +51,7 @@ Il voto finale verrá stampato a video.
 
 ## [3] Congettura di Collatz
 
-La [Congettura di Collatz](https://it.wikipedia.org/wiki/Congettura_di_Collatz) é un risultato interessante della matematica.
+La [Congettura di Collatz](https://it.wikipedia.org/wiki/Congettura_di_Collatz) é una congettura matematica tuttora irrisolta ma parecchio interessante.
 
 La congettura riguarda il seguente algoritmo:
 
