@@ -101,7 +101,21 @@ Implementare utilizzando un Array un set per interi i cui elementi sono sempre m
 Il set  ha dimensione massima 5. Deve essere possibile inserire un elemento (se il set non è pieno), cercare se un elemento è presente, cancellare un elemento dandone il valore e 
 Dire se il set è pieno oppure no. Nel caso di inserimento di un valore già presente, l'inserimento non viene effettuato e l'utente viene avvisato (nei set non vi sono mai elementi duplicati) 
 
-### Simulare la caduta di un granello di sabbia [TODO]
+## lunghezza di una stringa
+
+Creare una funziona che, data una stringa C style come parametro, ne ritorni la lunghezza. 
+
+## ricerca della prima occorrenza di un carattere in una stringa
+
+scrivere una funzione che, assegnata una stringa come parametro, ritorni la posizione di un carattere nella stringa, ritornando -1 se il carattere non dovesse essere presente nella stringa.
+
+## concatenati due stringhe
+
+date due stringhe c style come parametro di una funzione e una terza stringa sempre C style, concatenare le due stringhe e ritornare il risultato nella terza stringa
+
+## concatenati due stringhe /2
+
+date due stringhe (std::string) come parametro di una funzione e una terza stringa ( sempre std::string), concatenare le due stringhe e ritornare il risultato nella terza stringa
 
 
 
