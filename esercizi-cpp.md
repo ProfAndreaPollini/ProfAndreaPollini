@@ -154,3 +154,11 @@ Aggiungere un punteggio che incrementa ogni volta che si fa una mossa nella mapp
 
 Aggiungere un orco `O` che si muove in modo casuale sulla mappa. Aggiungere altre creature o pozioni a piacere. Pubblicare su steam ;)
 
+## tic tac toe
+
+creare un gioco del tris che mostri la tavola di gioco e che chieda ad aogni giocatore di fare la propria giocata, scrivendo chi ha eventualmente vinto.
+
+## gioco reale di Ur
+
+Implementare il gioco reale di Ur, utilizzando le informazioni presenti nella pagina di [wikipedia dedicata](https://it.wikipedia.org/wiki/Gioco_reale_di_Ur).
+
