@@ -126,6 +126,31 @@ definire una funzione `char[] pincoLatin(const char[])` che effettui la codifica
 * Se una parola inizia con una consonante, ogni suo carattere fino alla prima vocale esclusa verrà trasferito alla fine della parola e verrà aggiunto "co" alla fine della stringa risultante. Ad esempio "ciao" diventerà "iaocco".
 * Se il primo carattere della stringa è maiuscolo, anche quello della stringa risultante dovrà esserlo. ad esempio "Ciao" -> "Iaocco"
 
+## dungeon /1
 
+Assegnato un dungeon come il seguente (per gestirlo utilizza un array bidimensionale come struttura dati): 
 
+```
+. . . . . . . . . .
+. @ . . . . . . . .
+. . . . . . T . . .
+. . . . . . . . . .
+. . . . T . . . . .
+. . . . . . T . . .
+. . . . . . . . . X
+```
+
+fai in modo che l'utente (il carattere `@`) possa muoversi nelle quattro direzioni, utilizzando i tasti `WASD`. Il gioco termina quando si raggiunge il carattere `X` oppure quando il giocatore muore dopo aver toccato una trappola `T`. Il giocatore non può uscire dalla mappa.
+
+## dungeon/2
+
+Definire in modo casuale la posizione delle trappole sulla mappa e far ripartire il gioco con una nuova disposizione di trappole ogni volta che si raggiunge la `X`.
+
+## dungeon/3
+
+Aggiungere un punteggio che incrementa ogni volta che si fa una mossa nella mappa e che continua ad incrementarsi ad ogni mappa completata, fino alla morte del personaggio, quando invece deve essere riazzerato.
+
+## dungeon/4
+
+Aggiungere un orco `O` che si muove in modo casuale sulla mappa. Aggiungere altre creature o pozioni a piacere. Pubblicare su steam ;)
 
