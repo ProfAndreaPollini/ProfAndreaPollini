@@ -109,13 +109,22 @@ Creare una funziona che, data una stringa C style come parametro, ne ritorni la 
 
 scrivere una funzione che, assegnata una stringa come parametro, ritorni la posizione di un carattere nella stringa, ritornando -1 se il carattere non dovesse essere presente nella stringa.
 
-## concatenati due stringhe
+## concatenare due stringhe
 
 date due stringhe c style come parametro di una funzione e una terza stringa sempre C style, concatenare le due stringhe e ritornare il risultato nella terza stringa
 
-## concatenati due stringhe /2
+## concatenare due stringhe /2
 
 date due stringhe (std::string) come parametro di una funzione e una terza stringa ( sempre std::string), concatenare le due stringhe e ritornare il risultato nella terza stringa
+
+## codifica pinco latin
+
+definire una funzione `char[] pincoLatin(const char[])` che effettui la codifica pinco latin della stringa passata come parametro e la ritorna. La lunghezza massima della stringa passata come parametro è 20. La codifica pinco latin è definita come segue:
+
+* una parola è una sequenza consecutiva di lettere (a-z, A-Z) o apostrofi. Puoi assumere che l'input della funzione `pincoLatin` è una singola parola.
+* Se una parola inizia per vocale, viene lasciata come è e viene aggiunta alla sua finale la seguqenza di caratteri "pinco". Quindi "amico" diventerà "amicopinco"
+* Se una parola inizia con una consonante, ogni suo carattere fino alla prima vocale esclusa verrà trasferito alla fine della parola e verrà aggiunto "co" alla fine della stringa risultante. Ad esempio "ciao" diventerà "iaocco".
+* Se il primo carattere della stringa è maiuscolo, anche quello della stringa risultante dovrà esserlo. ad esempio "Ciao" -> "Iaocco"
 
 
 
