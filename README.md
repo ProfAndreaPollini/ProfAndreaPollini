@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 - [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
 - [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
+- [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
 
 ## ⚡ Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
 
