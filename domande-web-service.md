@@ -12,3 +12,9 @@
 * Hashing delle password
 * JWT token
 * Autenticazione in un pacchetto HTTP: dove viene salvato il token?
+* Cookie
+* Servlet: caratteristiche principali
+* App mobile
+* Progresssive Web App
+* Applicazioni ibride, native e webview
+* Vantaggi nella realizzazione, gestione e manutenzione di applicazioni ibride
