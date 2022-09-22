@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ## 📚 Risorse per studenti e docenti
 
+- [Libreria JAVA per lo studio dei sistemi distribuiti](https://github.com/ProfAndreaPollini/distributed-system-learning-lib) 
 - [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
 - [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
 - [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
