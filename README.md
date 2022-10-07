@@ -12,6 +12,10 @@
 </p>
 <br />
 
+## Programmazione in JAVA
+
+- 📚 **[Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/java-esercizi-base.md)**
+
 ## Gamedev C++
 
 * [**Starter Project**](https://github.com/ProfAndreaPollini/modern-cpp-gamedev-template)
