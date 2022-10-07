@@ -14,7 +14,7 @@
 
 ## Programmazione in JAVA
 
-- 📚 **[Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/java-esercizi-base.md)**
+- 📚 **[Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/5eeb572673cdce32bb9e0b171a4abb0af558a4e2/java-esercizi-base.md)**
 
 ## Gamedev C++
 
