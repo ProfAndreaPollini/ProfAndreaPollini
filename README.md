@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - [Libreria JAVA per lo studio dei sistemi distribuiti](https://github.com/ProfAndreaPollini/distributed-system-learning-lib) 
 - [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
 - [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
+- [Sistemi Distribuiti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-sistemi-distribuiti.md)
 - [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
 
 ## ⚡ Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
