@@ -16,6 +16,10 @@
 
 - 📚 **[Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/5eeb572673cdce32bb9e0b171a4abb0af558a4e2/java-esercizi-base.md)**
 
+## DATASET
+
+- [JSON Dataset per esercizi](https://raw.githubusercontent.com/ProfAndreaPollini/ProfAndreaPollini/main/json-datasets.md)
+
 ## Gamedev C++
 
 * [**Starter Project**](https://github.com/ProfAndreaPollini/modern-cpp-gamedev-template)
