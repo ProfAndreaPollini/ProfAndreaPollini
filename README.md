@@ -18,7 +18,7 @@
 
 ## DATASET
 
-- [JSON Dataset per esercizi](https://raw.githubusercontent.com/ProfAndreaPollini/ProfAndreaPollini/main/json-datasets.md)
+- [JSON Dataset per esercizi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/json-datasets.md)
 
 ## Gamedev C++
 
