@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 - [Sistemi Distribuiti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-sistemi-distribuiti.md)
 - [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
 
+### 📚 Tecnologie di pogettazione di sistemi informatici e di telecomunicazioni
+
+- [Argomenti secondo periodo classe quinta](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-secondo-periodo-5-tecnologie.md) 
+
 ## ⚡ Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
 
 - [Countdown App](https://github.com/ProfAndreaPollini/countdown-app-react) react,typescript,vite
