@@ -12,3 +12,10 @@
 - [Virtualizzazione](https://en.wikipedia.org/wiki/Virtualization)
 - [Container](https://en.wikipedia.org/wiki/Containerization_(computing))
 - [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+
+### docker
+- https://www.suse.com/c/rancher_blog/what-are-containers/
+- https://www.suse.com/c/rancher_blog/containers-vs-virtualization/
+
+## Applicazioni monolitiche e microservices
+- https://www.suse.com/c/rancher_blog/microservices-vs-monolithic-architectures-learning-path/
