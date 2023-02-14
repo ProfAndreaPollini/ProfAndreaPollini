@@ -1,5 +1,9 @@
 # Argomenti secondo periodo
 
+## Autenticazione e autorizzazione
+
+- [Caratteristiche](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
+
 ## Web service
 
 - [Web service](https://it.wikipedia.org/wiki/Web_service)
