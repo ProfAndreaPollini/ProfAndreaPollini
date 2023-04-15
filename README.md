@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 
 ### ⚡  Starter progetti 
 
+#### Svelte kit + ionic + capacitor.js
+
+https://github.com/ProfAndreaPollini/demo-capacitor-ionic-svelte
+
 #### electron.js (applicazioni desktop multipiattaforma con javascript)
   - [Electron + Typescript + react.js](https://github.com/ProfAndreaPollini/electron-boilerplate-typescript-react)
 
@@ -76,10 +80,6 @@ Here are some ideas to get you started:
 
   - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
   
-#### react
-
-   - [React + Parcel](https://github.com/ProfAndreaPollini/react-parcel-simple-starter)
-   - [typescript + React + Parcel V2](https://github.com/ProfAndreaPollini/parcel-react-typescript-template)
     
 
   
