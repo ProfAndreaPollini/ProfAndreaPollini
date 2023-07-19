@@ -12,17 +12,30 @@
 </p>
 <br />
 
-## Programmazione in JAVA
+## Progetti
 
-- 📚 **[Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/5eeb572673cdce32bb9e0b171a4abb0af558a4e2/java-esercizi-base.md)**
+- [Rust] Raytracing from scratch: [scrivere un motore di raytrracing da zero](https://github.com/ProfAndreaPollini/rust-raytracing-from-scratch)
+- [Rust] Rogulike da zero: [Imparare Rust scrivendo un roguelike](https://github.com/ProfAndreaPollini/roguelike-rust-macroquad-noname)
 
-## DATASET
+## Risorse
 
+### 📚 Risorse per studenti e docenti
+
+- [Libreria JAVA per lo studio dei sistemi distribuiti](https://github.com/ProfAndreaPollini/distributed-system-learning-lib)
+- [Esercizi di base sulle classi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/5eeb572673cdce32bb9e0b171a4abb0af558a4e2/java-esercizi-base.md)
+- [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
+- [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
+- [Sistemi Distribuiti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-sistemi-distribuiti.md)
+- [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
+
+####  📚 Tecnologie di pogettazione di sistemi informatici e di telecomunicazioni
+
+- [Argomenti secondo periodo classe quinta](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-secondo-periodo-5-tecnologie.md) 
+- ⚡[Svelte kit + ionic + capacitor.js: starter progetto](https://github.com/ProfAndreaPollini/demo-capacitor-ionic-svelte)
+
+### Dataset
 - [JSON Dataset per esercizi](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/json-datasets.md)
 
-## Gamedev C++
-
-* [**Starter Project**](https://github.com/ProfAndreaPollini/modern-cpp-gamedev-template)
 
 <!--
 **ProfAndreaPollini/ProfAndreaPollini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,17 +57,7 @@ Here are some ideas to get you started:
   - proponimi un [argomento per un video o una live](https://github.com/ProfAndreaPollini/profandreapollini-youtube-videos/issues)
   - vieni direttamente in live e chiedi!
 
-## 📚 Risorse per studenti e docenti
 
-- [Libreria JAVA per lo studio dei sistemi distribuiti](https://github.com/ProfAndreaPollini/distributed-system-learning-lib) 
-- [Raccolta di Esercizi Risolti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/esercizi-cpp.md)
-- [Progetti WebApp](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/idee-progetti-webapp.md)
-- [Sistemi Distribuiti](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-sistemi-distribuiti.md)
-- [Domande sui web service](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/domande-web-service.md)
-
-### 📚 Tecnologie di pogettazione di sistemi informatici e di telecomunicazioni
-
-- [Argomenti secondo periodo classe quinta](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/main/argomenti-secondo-periodo-5-tecnologie.md) 
 
 ## ⚡ Progetti sviluppati in live su [Twitch](https://www.twitch.tv/profandreapollini)
 
@@ -67,20 +70,9 @@ Here are some ideas to get you started:
 
 ### [Advent of code 2021](https://github.com/ProfAndreaPollini/ProfAndreaPollini/blob/8e876f28511c9c4892440f99d5f0f15e69326188/advent-of-code-2021.md)
 
-### ⚡  Starter progetti 
 
-#### Svelte kit + ionic + capacitor.js
 
-https://github.com/ProfAndreaPollini/demo-capacitor-ionic-svelte
 
-#### electron.js (applicazioni desktop multipiattaforma con javascript)
-  - [Electron + Typescript + react.js](https://github.com/ProfAndreaPollini/electron-boilerplate-typescript-react)
-
-#### next.js
-
-  - [Starter next.js + graphql (con nexus e prisma.io):](https://github.com/ProfAndreaPollini/nextjs-graphql-nexus-template)
-  
-    
 
   
 
