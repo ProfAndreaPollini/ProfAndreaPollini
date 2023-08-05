@@ -16,7 +16,7 @@
 
 - [Rust] Raytracing from scratch: [scrivere un motore di raytrracing da zero](https://github.com/ProfAndreaPollini/rust-raytracing-from-scratch)
 - [Rust] Rogulike da zero: [Imparare Rust scrivendo un roguelike](https://github.com/ProfAndreaPollini/roguelike-rust-macroquad-noname)
-
+- [Rust] [Rogulike da zero con Marcoquad e bevy_ecs](https://github.com/ProfAndreaPollini/roguelike-rust-bevy_ecs-macroquad-noname)
 ## Risorse
 
 ### 📚 Risorse per studenti e docenti
