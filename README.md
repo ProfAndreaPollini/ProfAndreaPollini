@@ -15,6 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 25 March - [50 Esercizi sul costrutto if/if..else/elif](https://andreapollini.com/50-esercizi-c-selezione)
+- 25 March - [Strutture di controllo in Java](https://andreapollini.com/java-strutture-controllo)
+- 24 March - [Il fascino e i pericoli del linguaggio C](https://andreapollini.com/corso-linguaggio-c-introduzione)
+- 5 March - [Setup di Neovim (LazyVim) su WSL come IDE](https://andreapollini.com/setup-neovim-wsl-ide)
+- 4 March - [Autenticazione utente in Flask e Sqlite](https://andreapollini.com/autenticazione-utente-in-flask-sqlite)
 <!-- feed end -->
 
 ## Risorse
