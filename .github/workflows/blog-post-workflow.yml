@@ -1,0 +1,21 @@
+name: All recent posts
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          format: '- ${day} ${monthlong} - [${title}](${url})'
+          timezone: 'Europe/London'
+          url: |
+            https://andreapollini.com/rss.xml
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
