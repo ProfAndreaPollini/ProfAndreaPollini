@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 25 April - [GIT: guida completa per principianti](https://andreapollini.com/git-guida-principianti)
 - 24 April - [Creazione e gestione degli indici nei database SQL](https://andreapollini.com/sql-indici-gestione)
 - 24 April - [Definzione di DBMS](https://andreapollini.com/dbms-definizione)
 - 24 April - [Scrittura di Tesi di Laurea con Markdown](https://andreapollini.com/scrivere-tesi-di-laurea-con-markdown)
 - 14 April - [Gestione della memoria a partizioni fisse e variabili](https://andreapollini.com/gestione-memoria-partizioni-fisse-variabili)
-- 14 April - [Frammentazione interna ed esterna: Nemici invisibili della memoria del tuo computer](https://andreapollini.com/frammentazione-interna-esterna)
 <!-- feed end -->
 
 ## Risorse
