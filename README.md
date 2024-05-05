@@ -15,7 +15,7 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
-- 3 May - [langhain e Llama3: un chatbot locale per  i tuoi documenti](https://andreapollini.com/llama3-local-chatbot-ollama)
+- 3 May - [un chatbot locale per  i tuoi documenti con llama3 e langchain](https://andreapollini.com/llama3-local-chatbot-ollama)
 - 25 April - [GIT: guida completa per principianti](https://andreapollini.com/git-guida-principianti)
 - 24 April - [Creazione e gestione degli indici nei database SQL](https://andreapollini.com/sql-indici-gestione)
 - 24 April - [Definzione di DBMS](https://andreapollini.com/dbms-definizione)
