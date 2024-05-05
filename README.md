@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 5 May - [Il formato JSON: guida completa per principianti](https://andreapollini.com/format-json-guida-principianti)
 - 3 May - [un chatbot locale per  i tuoi documenti con llama3 e langchain](https://andreapollini.com/llama3-local-chatbot-ollama)
 - 25 April - [GIT: guida completa per principianti](https://andreapollini.com/git-guida-principianti)
 - 24 April - [Creazione e gestione degli indici nei database SQL](https://andreapollini.com/sql-indici-gestione)
 - 24 April - [Definzione di DBMS](https://andreapollini.com/dbms-definizione)
-- 24 April - [Scrittura di Tesi di Laurea con Markdown](https://andreapollini.com/scrivere-tesi-di-laurea-con-markdown)
 <!-- feed end -->
 
 ## Risorse
