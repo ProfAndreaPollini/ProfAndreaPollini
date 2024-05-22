@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 22 May - [7 Esercizi sugli array in C++](https://andreapollini.com/7-esercizi-array-c++)
+- 22 May - [19 esercizi sulle funzioni in C++](https://andreapollini.com/19-esercizi-funzioni-c++)
+- 22 May - [Esercizi di informatica](https://andreapollini.com/esercizi_informatica)
 - 8 May - [Struct in C++](https://andreapollini.com/struct-c++)
 - 5 May - [Il formato JSON: guida completa per principianti](https://andreapollini.com/format-json-guida-principianti)
-- 3 May - [un chatbot locale per  i tuoi documenti con llama3 e langchain](https://andreapollini.com/llama3-local-chatbot-ollama)
-- 25 April - [GIT: guida completa per principianti](https://andreapollini.com/git-guida-principianti)
-- 24 April - [Creazione e gestione degli indici nei database SQL](https://andreapollini.com/sql-indici-gestione)
 <!-- feed end -->
 
 ## Risorse
