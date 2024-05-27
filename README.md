@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 25 May - [20 Esercizi svolti sulle matrici in C++](https://andreapollini.com/20-esercizi-svolti-matrici-c++)
+- 25 May - [Esercizi sulle matrici in C++](https://andreapollini.com/esercizi-matrici-c++)
+- 23 May - [Maturità informatica 2024: esercizio per lo scritto di  sistemi e reti](https://andreapollini.com/sistemi-e-reti-esercizio-informatica-maturita-2024)
 - 22 May - [7 Esercizi sugli array in C++](https://andreapollini.com/7-esercizi-array-c++)
 - 22 May - [19 esercizi sulle funzioni in C++](https://andreapollini.com/19-esercizi-funzioni-c++)
-- 22 May - [Esercizi di informatica](https://andreapollini.com/esercizi_informatica)
-- 8 May - [Struct in C++](https://andreapollini.com/struct-c++)
-- 5 May - [Il formato JSON: guida completa per principianti](https://andreapollini.com/format-json-guida-principianti)
 <!-- feed end -->
 
 ## Risorse
