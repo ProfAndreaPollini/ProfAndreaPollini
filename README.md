@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 27 May - [Esercizi svolti in C++](https://andreapollini.com/esercizi-svolti-c++)
 - 25 May - [20 Esercizi svolti sulle matrici in C++](https://andreapollini.com/20-esercizi-svolti-matrici-c++)
 - 25 May - [Esercizi sulle matrici in C++](https://andreapollini.com/esercizi-matrici-c++)
 - 23 May - [Maturità informatica 2024: esercizio per lo scritto di  sistemi e reti](https://andreapollini.com/sistemi-e-reti-esercizio-informatica-maturita-2024)
 - 22 May - [7 Esercizi sugli array in C++](https://andreapollini.com/7-esercizi-array-c++)
-- 22 May - [19 esercizi sulle funzioni in C++](https://andreapollini.com/19-esercizi-funzioni-c++)
 <!-- feed end -->
 
 ## Risorse
