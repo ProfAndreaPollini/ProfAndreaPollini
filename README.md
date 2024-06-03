@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 2 June - [Consigli per iniziare a sviluppare videogame](https://andreapollini.com/come-iniziare-a-sviluppare-videogame)
 - 1 June - [9 Esercizi con soluzioni sulle funzioni in C++](https://andreapollini.com/9-esercizi-svolti-funzioni-c++)
 - 27 May - [Esercizi svolti in C++](https://andreapollini.com/esercizi-svolti-c++)
 - 25 May - [20 Esercizi svolti sulle matrici in C++](https://andreapollini.com/20-esercizi-svolti-matrici-c++)
 - 25 May - [Esercizi sulle funzioni in C++](https://andreapollini.com/esercizi-funzioni-c++)
-- 25 May - [Esercizi sulle matrici in C++](https://andreapollini.com/esercizi-matrici-c++)
 <!-- feed end -->
 
 ## Risorse
