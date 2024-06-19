@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 19 June - [Interrompere un ciclo forEach in JavaScript](https://andreapollini.com/javascript-interrompere-ciclo-foreach)
+- 10 June - [Come insegnare oggi in modo moderno](https://andreapollini.com/insegnare-in-modo-moderno-oggi-nuove-tecnologie)
 - 6 June - [Esercizio svolto C++: Conteggio parole in una stringa](https://andreapollini.com/c++-esercizio-conteggio-parole-stringa)
 - 2 June - [Consigli per iniziare a sviluppare videogame](https://andreapollini.com/come-iniziare-a-sviluppare-videogame)
 - 1 June - [9 Esercizi con soluzioni sulle funzioni in C++](https://andreapollini.com/9-esercizi-svolti-funzioni-c++)
-- 27 May - [Esercizi svolti in C++](https://andreapollini.com/esercizi-svolti-c++)
-- 25 May - [20 Esercizi svolti sulle matrici in C++](https://andreapollini.com/20-esercizi-svolti-matrici-c++)
 <!-- feed end -->
 
 ## Risorse
