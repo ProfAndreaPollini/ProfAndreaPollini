@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 25 August - [Processi e thread](https://andreapollini.com/tpsit-processi-thread)
+- 25 August - [le user story](https://andreapollini.com/tpsit-user-story)
+- 25 August - [analisi dei requisiti per un progetto informatico](https://andreapollini.com/tpsit-analisi-requisiti-introduzione)
 - 22 June - [Non usare console.log in JavaScript](https://andreapollini.com/javascript-non-usare-console-log-per-debug)
 - 19 June - [Interrompere un ciclo forEach in JavaScript](https://andreapollini.com/javascript-interrompere-ciclo-foreach)
-- 10 June - [Come insegnare oggi in modo moderno](https://andreapollini.com/insegnare-in-modo-moderno-oggi-nuove-tecnologie)
-- 6 June - [Esercizio svolto C++: Conteggio parole in una stringa](https://andreapollini.com/c++-esercizio-conteggio-parole-stringa)
-- 2 June - [Consigli per iniziare a sviluppare videogame](https://andreapollini.com/come-iniziare-a-sviluppare-videogame)
 <!-- feed end -->
 
 ## Risorse
