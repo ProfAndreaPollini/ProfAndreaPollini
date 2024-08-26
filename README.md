@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 25 August - [esercizi gestione della concorrenza](https://andreapollini.com/tpsit-esercizi-concorrenza-thread)
+- 25 August - [esercizi gestione della sincronizzazione](https://andreapollini.com/tpsit-esercizi-sincronizzazione-thread)
+- 25 August - [Tecniche di sincronizzazione](https://andreapollini.com/tpsit-tecniche-sincronizzazione-thread)
+- 25 August - [gestione della concorrenza](https://andreapollini.com/tpsit-concorrenza-processi-thread)
 - 25 August - [Processi e thread](https://andreapollini.com/tpsit-processi-thread)
-- 25 August - [le user story](https://andreapollini.com/tpsit-user-story)
-- 25 August - [analisi dei requisiti per un progetto informatico](https://andreapollini.com/tpsit-analisi-requisiti-introduzione)
-- 22 June - [Non usare console.log in JavaScript](https://andreapollini.com/javascript-non-usare-console-log-per-debug)
-- 19 June - [Interrompere un ciclo forEach in JavaScript](https://andreapollini.com/javascript-interrompere-ciclo-foreach)
 <!-- feed end -->
 
 ## Risorse
