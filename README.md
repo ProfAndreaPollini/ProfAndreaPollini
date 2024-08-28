@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 27 August - [cosa è l'architettura in un software?](https://andreapollini.com/architettura-software-definizione)
 - 25 August - [esercizi gestione della concorrenza](https://andreapollini.com/tpsit-esercizi-concorrenza-thread)
 - 25 August - [esercizi gestione della sincronizzazione](https://andreapollini.com/tpsit-esercizi-sincronizzazione-thread)
 - 25 August - [Tecniche di sincronizzazione](https://andreapollini.com/tpsit-tecniche-sincronizzazione-thread)
 - 25 August - [gestione della concorrenza](https://andreapollini.com/tpsit-concorrenza-processi-thread)
-- 25 August - [Processi e thread](https://andreapollini.com/tpsit-processi-thread)
 <!-- feed end -->
 
 ## Risorse
