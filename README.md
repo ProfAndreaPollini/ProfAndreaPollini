@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 2 September - [11 comandi Linux da sapere](https://andreapollini.com/linux/11-comandi-linux-da-sapere)
+- 2 September - [Qual è la differenza tra processo e thread?](https://andreapollini.com/differenza-thread-processi)
 - 29 August - [Installare Mosquitto su Raspberry Pi](https://andreapollini.com/installare-mosquitto-raspberry-pi)
 - 27 August - [cosa è l'architettura in un software?](https://andreapollini.com/architettura-software-definizione)
 - 25 August - [esercizi gestione della concorrenza](https://andreapollini.com/tpsit-esercizi-concorrenza-thread)
-- 25 August - [esercizi gestione della sincronizzazione](https://andreapollini.com/tpsit-esercizi-sincronizzazione-thread)
-- 25 August - [Tecniche di sincronizzazione](https://andreapollini.com/tpsit-tecniche-sincronizzazione-thread)
 <!-- feed end -->
 
 ## Risorse
