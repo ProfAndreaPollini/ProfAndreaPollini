@@ -15,11 +15,11 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
+- 3 September - [7 consigli per aumentare la produttività nello studio e nel lavoro](https://andreapollini.com/7-consigli-per-aumentare-la-produttivita-nello-studio-e-nel-lavoro)
 - 2 September - [11 comandi Linux da sapere](https://andreapollini.com/linux/11-comandi-linux-da-sapere)
 - 2 September - [Qual è la differenza tra processo e thread?](https://andreapollini.com/differenza-thread-processi)
 - 29 August - [Installare Mosquitto su Raspberry Pi](https://andreapollini.com/installare-mosquitto-raspberry-pi)
 - 27 August - [cosa è l'architettura in un software?](https://andreapollini.com/architettura-software-definizione)
-- 25 August - [esercizi gestione della concorrenza](https://andreapollini.com/tpsit-esercizi-concorrenza-thread)
 <!-- feed end -->
 
 ## Risorse
