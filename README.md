@@ -15,7 +15,7 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
-- 22 October - [La legge di Moore vale oggi oppure no?](https://andreapollini.com/la-legge-di-moore-vale-oggi-oppure-no)
+- 3 November - [La legge di Moore vale oggi oppure no?](https://andreapollini.com/la-legge-di-moore-vale-oggi-oppure-no)
 - 14 October - [Come dare un nome agli endpoint delle  API](https://andreapollini.com/naming-endpoint-api-web-service)
 - 9 October - [10 Esercizi risolti  sugli algoritmi](https://andreapollini.com/informatica/10-esercizi-risolti-sugli-algoritmi)
 - 9 October - [Algebra di Boole](https://andreapollini.com/algebra-di-boole)
