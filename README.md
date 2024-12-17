@@ -15,7 +15,7 @@
 ## Ultimi post del mio sito
 
 <!-- feed start -->
-- 15 December - [La legge di Moore vale oggi oppure no?](https://andreapollini.com/la-legge-di-moore-vale-oggi-oppure-no)
+- 17 December - [Falling Sand Simulation in C++ e raylib con automi cellulari](https://andreapollini.com/raylib-falling-sand-simulation-cellular-automata)
 - 14 October - [Come dare un nome agli endpoint delle  API](https://andreapollini.com/naming-endpoint-api-web-service)
 - 9 October - [10 Esercizi risolti  sugli algoritmi](https://andreapollini.com/informatica/10-esercizi-risolti-sugli-algoritmi)
 - 9 October - [Algebra di Boole](https://andreapollini.com/algebra-di-boole)
