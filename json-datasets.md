@@ -3,7 +3,7 @@
 
 ## Meteoriti
 
-spiegazione: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+spiegazione: [https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh](https://data-nasa-bucket-production.s3.us-east-1.amazonaws.com/legacy/meteorite_landings/gh4g-9sfh.json)
 
 link: https://data.nasa.gov/resource/gh4g-9sfh.json
 
